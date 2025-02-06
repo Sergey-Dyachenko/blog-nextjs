@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/home/serhii/Desktop/learnNextJs/learning-nextjs--codespaces--5914444/exercise-files/02/02_06/src/app/layout\":[\"static/media/a34f9d1faa5f3315-s.p.woff2\",\"static/media/47cbc4e2adbc5db9-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
